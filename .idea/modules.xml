@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/sadam_libray_java.iml" filepath="$PROJECT_DIR$/sadam_libray_java.iml" />
+      <module fileurl="file://$PROJECT_DIR$/sadamlibrary_java/sadamlibrary_java.iml" filepath="$PROJECT_DIR$/sadamlibrary_java/sadamlibrary_java.iml" />
     </modules>
   </component>
 </project>
